@@ -1,0 +1,21 @@
+# Build directories
+target/
+build/
+
+# IDE-specific files
+.idea/
+*.iml
+.classpath
+.project
+
+# System-specific files
+.DS_Store
+Thumbs.db
+
+# Gradle wrapper
+.gradle/
+gradlew
+gradlew.bat
+
+# Logs
+*.log
